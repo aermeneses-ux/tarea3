@@ -2,5 +2,6 @@
 Deber
 
 
-texto creado por menesesA
+texto modificado por menesesB 
+conflictos
 

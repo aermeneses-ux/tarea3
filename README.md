@@ -1,4 +1,6 @@
 # tarea3
 Deber
 
-texto modificado por menesesB
+
+texto modificado por menesesB 
+conflicto
